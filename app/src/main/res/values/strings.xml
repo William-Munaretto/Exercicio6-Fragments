@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exericio6-fragments</string>
+    <string name="btn_preto">PRETO</string>
+    <string name="btn_azul">Azul</string>
+    <string name="btn_verde">Verde</string>
+    <string name="btn_vermelho">Vermelho</string>
+    <string name="btn_amarelo">Amarelo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
